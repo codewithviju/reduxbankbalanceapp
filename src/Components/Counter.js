@@ -23,7 +23,7 @@ const Counter = () => {
           <Typography variant="h4" align="center">
             Diposit Money / Widhdrawl Money - Amount 50 INR
           </Typography>
-          <Grid direction="row">
+          <Grid>
             <Button
               variant="contained"
               onClick={() => {
